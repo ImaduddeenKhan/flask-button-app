@@ -7,6 +7,10 @@ It allows users to input their symptoms and get predictions about possible disea
 The system was first built in **Google Colab (IPYNB Notebook)** for data preprocessing, model training, and evaluation, and later deployed using **Flask + HTML frontend (PyCharm IDE)**.
 
 ---
+## 🖼️ App Screenshot
+
+![App Screenshot](Screenshot%2025-09-13%163717.png)
+
 
 ##   Features
 
