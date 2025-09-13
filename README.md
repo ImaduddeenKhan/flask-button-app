@@ -9,8 +9,8 @@ The system was first built in **Google Colab (IPYNB Notebook)** for data preproc
 ---
 ## 🖼️ App Screenshot
 
-![App Screenshot](Screenshot%2025-09-13%163717.png)
 
+![Disease Prediction App](Screenshot%202025-09-13%20163717.png)  
 
 ##   Features
 
